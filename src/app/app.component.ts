@@ -6,7 +6,6 @@ import { Component } from '@angular/core';
     <h1>{{title}}</h1>
     <p>Length:{{title.length}}</p>
     <p>Reversed:{{getReversed(title)}}</p>
-
   `,
   styles: []
 })
